@@ -1,24 +1,37 @@
-# 💫 About Me:
-Aspiring cybersecurity professional with a strong foundation in ethical hacking, networking, and full-stack development. Passionate about identifying vulnerabilities, securing systems, and building scalable applications. Continuously learning and exploring cybersecurity, bug bounty, and modern web technologies
+# Hi, I'm Deepak Tiwari
 
+**Python developer focused on backend and security-minded web applications.**
+MCA student · Open to internships and entry-level backend roles.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Cybersec-001&theme=vue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Cybersec-001&theme=vue&hide_border=true)<br/>
+## About me
+
+- I build web applications in Python - Flask today, FastAPI and Django in my toolkit - with a security-first mindset from my cybersecurity background.
+- Comfortable across the stack: React on the frontend, SQL databases, and Linux for deployment.
+- I like owning a project end to end: data model, API, auth, and a clean README.
+
+## Featured projects
+
+- **[ReconX](https://github.com/Cybersec-001/ReconX)** - Web-based OSINT intelligence dashboard (Flask, SQLite): WHOIS, crt.sh subdomain enumeration, Shodan host data, Wayback Machine history and PDF reports, with user accounts, an admin panel and rate limiting.
+- **[Password Manager](https://github.com/Cybersec-001/password-manager)** - Desktop password manager (Python, Tkinter) with Fernet authenticated encryption and automatic key bootstrap.
+- **[Cyberfolio](https://github.com/Cybersec-001/-cyberfolio)** - My personal portfolio site: static HTML/CSS/JS with Tailwind, Typed.js and a Canvas matrix effect.
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub stats
+
+![](https://github-readme-stats.shion.dev/api?username=Cybersec-001&theme=vue&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cybersec-001&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cybersec-001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Connect
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cybersec-001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Cybersec-001&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- LinkedIn: [deepak-tiwari-95a103265](https://linkedin.com/in/deepak-tiwari-95a103265)
+- Email: deepaktiwari.cybersec@gmail.com
