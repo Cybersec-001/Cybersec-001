@@ -33,5 +33,5 @@ MCA student · Open to internships and entry-level backend roles.
 
 ## Connect
 
-- LinkedIn: [deepak-tiwari-95a103265](https://linkedin.com/in/deepak-tiwari-95a103265)
+- LinkedIn: [deepak-tiwari01](https://www.linkedin.com/in/deepak-tiwari01)
 - Email: deepaktiwari.cybersec@gmail.com
